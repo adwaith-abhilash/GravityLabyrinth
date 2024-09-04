@@ -6,8 +6,8 @@ You can play the game by downloading the game files from this link: [Play the Ga
 
 ## Controls
 
-Movement : WASD + Mouse
-Jump : Space
+Movement : WASD + Mouse  
+Jump : Space  
 Change Gravity : Arrow Keys
 
 ## Decription
